@@ -330,6 +330,7 @@ details a:hover {
 
 
 @media (max-width:500px) {
+    .select6 img { width:90%; }
     .select4 .g pre {
         font-size: 7px;
     }
